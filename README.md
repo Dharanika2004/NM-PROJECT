@@ -1,2 +1,2 @@
 # NM-PROJECT
-NOISE POLLUTION MONITORING
+Noise pollution monitoring, bolstered by the Internet of Things (IoT), involves the deployment of networked sound sensors in urban areas to continuously measure and record noise levels. These IoT sensors collect data on noise sources, patterns, and intensity, transmitting it to centralized systems for analysis. This real-time information enables authorities to identify noise hotspots, track noise
